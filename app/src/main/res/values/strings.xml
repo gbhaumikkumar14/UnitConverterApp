@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="select_the_conversion_type">Select the conversion type</string>
+    <string name="pounds_to_kilograms">Pounds to Kilograms</string>
+    <string name="kilograms_to_pounds">Kilograms to Pounds</string>
+    <string name="yards_to_meters">Yards to Meters</string>
+    <string name="meters_to_yards">Meters to Yards</string>
+    <string name="miles_to_kilometers">Miles to Kilometers</string>
+    <string name="kilometers_to_miles">Kilometers to Miles</string>
+    <string name="conversion_type">Conversion type</string>
+    <string name="convert">Convert</string>
+    <string name="history">History</string>
+    <string name="clear_all">clear all</string>
+    <string name="pound">lbs</string>
+    <string name="kilogram">kg</string>
+    <string name="yard">yd</string>
+    <string name="meter">m</string>
+    <string name="mile">mi</string>
+    <string name="kilometer">km</string>
+    <string name="error_message">Please input value</string>
+</resources>
